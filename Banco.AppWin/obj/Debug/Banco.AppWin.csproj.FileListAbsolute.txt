@@ -1,0 +1,11 @@
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.exe.config
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.exe
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.pdb
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.AssemblyReference.cache
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.Form1.resources
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.Properties.Resources.resources
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.GenerateResource.cache
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.CoreCompileInputs.cache
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.exe
+C:\Users\CALIN\Desktop\MIS CLASES SISE\3ER CICLO\BLOQUE 2\DESARROLLO DE SOLUCIONES EMPRE\proyecto visual\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.pdb
